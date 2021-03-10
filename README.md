@@ -5,6 +5,7 @@ This is a simple application that allows me to practice basic Angular by buildin
 ## Steps
 
 1. Create the template for the books page
-   Import Bootstrap and Font Awesome.
-   Add to the main style.css file.
-   Create the books template file.
+   -- Import Bootstrap and Font Awesome.
+   -- Add to the main style.css file.
+   -- Create the book-list template file.
+2. Create the book-list class file.
